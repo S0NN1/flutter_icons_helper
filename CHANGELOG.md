@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * Updated LICENSE
+
+## 0.0.5
+
+* Changed to Dart SDK 2.14 compatibility
