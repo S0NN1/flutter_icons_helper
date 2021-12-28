@@ -1,6 +1,6 @@
 # flutter_icons_helper
 
-[![pub package](https://img.shields.io/pub/v/flutter_icons.svg)](https://pub.dartlang.org/packages/flutter_icons_helper)
+[![pub package](https://img.shields.io/pub/v/flutter_icons_helper.svg)](https://pub.dartlang.org/packages/flutter_icons_helper)
 
 An helper implementing utility methods for package `flutter_icons`: https://github.com/flutter-studio/flutter-icons
 
