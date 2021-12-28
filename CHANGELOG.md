@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Changed to Dart SDK 2.15 compatibility
+
+## 0.0.4
+
+* Updated LICENSE
