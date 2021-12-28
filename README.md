@@ -40,4 +40,4 @@ import 'package:flutter_icons_helper/flutter_icons_helper.dart';
 
 ## Contribute
 
-You can contribute by opening issues or making pull requests on the [Github repo]().
+You can contribute by opening issues or making pull requests on the [Github repo](https://github.com/S0NN1/flutter_icons_helper).
