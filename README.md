@@ -7,7 +7,7 @@ An helper implementing utility methods for package `flutter_icons`: https://gith
 ## Features
 
 - IconHelper - helper class:
-  - getIconByName() - retrieves icons by their name by inputting ICON_PACK_.NAME.
+  - getIconByName() - retrieves icons by their name by inputting ICON_PACK.NAME.
 
 ## Getting started
 
