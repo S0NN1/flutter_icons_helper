@@ -19,7 +19,7 @@ Add *flutter_icons_helper* to your `pubspec.yaml`
 import 'package:flutter_icons_helper/flutter_icons_helper.dart';
 
 
-    final helper = IconHelpelper();
+    final helper = IconHelper();
     
     // Name with hyphens
     IconData? icon = helper.getIconByName('AntDesign.medium-wordmark');
