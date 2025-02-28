@@ -17,3 +17,7 @@
 ## 0.0.5
 
 * Changed to Dart SDK 2.14 compatibility
+
+## 0.0.6
+
+* Updated Flutter version and minor fixes
