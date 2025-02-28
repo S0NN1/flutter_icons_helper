@@ -1,5 +1,4 @@
 /// A package including utility tools fo flutter_icons package
-library flutter_icons_helper;
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_font_icons/flutter_font_icons.dart';
@@ -64,6 +63,8 @@ class IconHelper {
         return _weatherIconsMap[icon];
       case 'Zocial':
         return _zocialIconsMap[icon];
+      default:
+        return null;
     }
   }
 
